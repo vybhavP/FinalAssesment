@@ -1,0 +1,30 @@
+.panel-body{
+margin-top: 80px;
+}
+#rightPanel{
+margin-top: 80px;
+}
+h1{
+  text-align: center;
+  background-color: lightgreen;
+}
+#nav{
+  background-color: lightgreen;
+}
+
+#navHead{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  background-color: lightgreen;
+  font-style: italic;
+}
+
+.active{
+  color: cyan;
+}
+#submitForm{
+  margin-left: 45%;
+}
